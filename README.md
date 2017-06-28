@@ -1,2 +1,2 @@
 # MTmnist
-MT mnist (chainer 2.0)
+MNIST for chainer 2.0
